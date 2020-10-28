@@ -43,7 +43,7 @@ int main() {
 
 Source images
 
-![](https://raw.githubusercontent.com/MarkLagodych/assets/main/BMP_C/1.bmp?token=AQXYVQ6GKNIA45KESKRSL4K7TFSFQ)
+![](https://raw.githubusercontent.com/MarkLagodych/assets/main/BMP_C/1.bmp?raw=true)
 ![](https://raw.githubusercontent.com/MarkLagodych/assets/main/BMP_C/2.bmp?token=AQXYVQZDO4PTL375MOGBWCC7TFSKC)
 
 Result
