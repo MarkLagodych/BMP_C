@@ -43,12 +43,12 @@ int main() {
 
 Source images
 
-![](https://raw.githubusercontent.com/MarkLagodych/assets/main/BMP_C/1.bmp)
-![](https://raw.githubusercontent.com/MarkLagodych/assets/main/BMP_C/2.bmp)
+![](https://raw.githubusercontent.com/MarkLagodych/assets/main/BMP_C/1.bmp?raw=true)
+![](https://raw.githubusercontent.com/MarkLagodych/assets/main/BMP_C/2.bmp?raw=true)
 
 Result
 
-![](https://raw.githubusercontent.com/MarkLagodych/assets/main/BMP_C/result.bmp)
+![](https://raw.githubusercontent.com/MarkLagodych/assets/main/BMP_C/result.bmp?raw=true)
 
 ## Brief description of main types
 
