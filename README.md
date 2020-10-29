@@ -94,7 +94,7 @@ void DeleteContainer(Image *image); // Frees only image structure, not its pixel
 
 - `pix(r, g, b)` macro is a shortcut to create a `Pixel` structure from given R, G and B values
 
-- `pixi(image, x, y)` macro get an access to an image pixel.
+- `pixi(image, x, y)` macro gets an access to an image pixel.
     Example:
     ```c
     pixi(img1, 10, 34) = pix(255, 255, 0);

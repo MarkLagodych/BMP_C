@@ -86,7 +86,7 @@ enum FlipMethod {
 };
 void FlipImage(Image *image, enum FlipMethod method);
 
-// Overlay pixels with avgpix and stores the result into image1
+// Overlay pixels with avgpix and stores the result into destination
 void OverlayImage(Image *destination,
                   uint dx, uint dy,
                   Image *source,
