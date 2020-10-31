@@ -109,3 +109,8 @@ void DeleteContainer(Image *image); // Frees only image structure, not its pixel
 
 - ```Image *CreateCompatible(Image *image);```
   Creates an image with the same size
+
+
+## Further reading
+
+Take a look at `bmp.h` and `images.h` files.
